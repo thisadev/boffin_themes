@@ -4,9 +4,38 @@
 
 ### 1.1 Tokyonight
 
+```bash
+https://github.com/folke/tokyonight.nvim.git
+```
 ## 2. Warp Themes
 
 ### 2.1 Tokyonight
+
+```yaml
+accent: "#7aa2f7"
+background: "#1a1b26"
+details: darker
+foreground: "#a9b1d6"
+terminal_colors:
+  bright:
+    black: "#363b54"
+    blue: "#7aa2f7"
+    cyan: "#7dcfff"
+    green: "#41a6b5"
+    magenta: "#bb9af7"
+    red: "#f7768e"
+    white: "#acb0d0"
+    yellow: "#e0af68"
+  normal:
+    black: "#363b54"
+    blue: "#7aa2f7"
+    cyan: "#7dcfff"
+    green: "#41a6b5"
+    magenta: "#bb9af7"
+    red: "#f7768e"
+    white: "#787c99"
+    yellow: "#e0af68"
+```
 
 ## 3. K9s Themes
 
